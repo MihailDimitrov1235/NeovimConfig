@@ -6,7 +6,9 @@
 - mason
 - lsp-config
 - telescope
-- term-toggle
+- toggle-term
+- lualine
+- nordic theme
 ## Setup
 ### Linux
     git clone https://github.com/MihailDimitrov1235/nvim ~/.config
