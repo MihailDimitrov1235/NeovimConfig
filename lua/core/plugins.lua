@@ -28,10 +28,12 @@ return require('packer').startup(function(use)
     'williamboman/mason-lspconfig.nvim',
     'neovim/nvim-lspconfig',
   }
-  use 'hrsh7th/nvim-cmp'
-  use 'hrsh7th/cmp-nvim-lsp'
   use	'windwp/nvim-autopairs'
   use 'windwp/nvim-ts-autotag'
+
+  --LuaSnip
+  use "L3MON4D3/LuaSnip"
+  use "saadparwaiz1/cmp_luasnip"
 
 
   -- Automatically set up your configuration after cloning packer.nvim
