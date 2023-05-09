@@ -11,4 +11,4 @@
 - nordic theme
 ## Setup
 ### Linux
-    git clone https://github.com/MihailDimitrov1235/nvim ~/.config
+    git clone https://github.com/MihailDimitrov1235/nvim ~/.config/nvim --depth 1
