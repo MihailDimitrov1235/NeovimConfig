@@ -6,7 +6,7 @@
 - mason
 - lsp-config
 - telescope
-- toggle-term
+- tmux navigator
 - lualine
 - nordic theme
 ## Setup
